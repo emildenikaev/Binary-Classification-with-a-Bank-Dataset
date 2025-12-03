@@ -1,0 +1,11 @@
+venv/
+data/
+
+catboost_info/
+catboost_oof_preds.pkl
+catboost_test_preds.pkl
+ensemble_test_preds.pkl
+lgbm_oof_preds.pkl
+lgbm_test_preds.pkl
+experiment_results.json
+submission_ensemble.csv
